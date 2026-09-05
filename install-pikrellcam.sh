@@ -142,7 +142,7 @@ do
 	fi
 done
 
-for PACKAGE in nginx bc \
+for PACKAGE in gpac nginx bc \
 	sshpass mpack imagemagick apache2-utils libasound2 libasound2-dev \
 	libmp3lame0 libmp3lame-dev
 do
